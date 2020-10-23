@@ -1,4 +1,4 @@
-# OSI:
+OSI:
 7  app  給應用軟體用的介面
 6  presentation  雙方互相溝通用的格式
 5  session  負責維護兩台電腦之間的通訊連接
