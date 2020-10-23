@@ -1,3 +1,4 @@
+![image](https://github.com/MyDearGreatTeacher/CS2020B/raw/master/protocol.jpg)
 OSI:
 7  app  給應用軟體用的介面
 6  presentation  雙方互相溝通用的格式
