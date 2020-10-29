@@ -1,6 +1,6 @@
 ![image](https://github.com/MyDearGreatTeacher/CS2020B/raw/master/protocol.jpg)
 # OSI:
-7  app  (應用層)給應用軟體用的介面
+7  app  (應用層)給應用軟體用的介面 \n
 6  presentation  (表達層)雙方互相溝通用的格式
 5  session  (會議層)負責維護兩台電腦之間的通訊連接
 4  transport  (傳輸層)TCP/UDP等網路協定
