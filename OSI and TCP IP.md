@@ -1,12 +1,12 @@
 ![image](https://github.com/MyDearGreatTeacher/CS2020B/raw/master/protocol.jpg)
 # OSI:
-7  app  (應用層)給應用軟體用的介面 \n
-6  presentation  (表達層)雙方互相溝通用的格式
-5  session  (會議層)負責維護兩台電腦之間的通訊連接
-4  transport  (傳輸層)TCP/UDP等網路協定
-3  network  (網路層)網際網路協定
-2  data link  (資料連結層)實體位址
-1  physical  (實體層)負責管理電腦通訊裝置跟網路媒體之間的溝通
+7  app  (應用層)給應用軟體用的介面  
+6  presentation  (表達層)雙方互相溝通用的格式  
+5  session  (會議層)負責維護兩台電腦之間的通訊連接  
+4  transport  (傳輸層)TCP/UDP等網路協定  
+3  network  (網路層)網際網路協定  
+2  data link  (資料連結層)實體位址  
+1  physical  (實體層)負責管理電腦通訊裝置跟網路媒體之間的溝通  
 # TCP/IP:
 4  app  例如 HTTP DNS
 3  transport  例如 TCP UDP
