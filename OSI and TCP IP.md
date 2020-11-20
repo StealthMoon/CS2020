@@ -8,10 +8,10 @@
 2  data link  (資料連結層)實體位址  
 1  physical  (實體層)負責管理電腦通訊裝置跟網路媒體之間的溝通  
 # TCP/IP:
-4  app  例如 HTTP DNS 提供服務直接支援用戶應用  
-3  transport  例如 TCP UDP 保證資料按照正確的順序到達  
-2  internet  網際網路協定 將資料從原網路傳輸到目標網路  
-1  network assess  乙太 WIFI 封包從一個裝置的網路層傳輸到另外一個裝置的網路層的方法  
+4  app(應用層)  例如 HTTP DNS 提供服務直接支援用戶應用  
+3  transport(傳輸層)  例如 TCP UDP 保證資料按照正確的順序到達  
+2  internet(網路互連層)  網際網路協定 將資料從原網路傳輸到目標網路  
+1  network assess(網路連結層)  乙太 WIFI 封包從一個裝置的網路層傳輸到另外一個裝置的網路層的方法  
 # 協定protocol
 communcation protocol 通訊協定  
 定義電腦間互相通訊且共同認定的協議標準  
