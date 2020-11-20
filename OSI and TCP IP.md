@@ -88,7 +88,7 @@ nginx/nginx-rtmp
 snoop / wireshark  
 # Message Queuing Telemetry Transport(MQTT)
 應用層  
-可視為「資料傳遞的橋梁」  
+可視為資料傳遞的橋梁  
 MQTTLens  
 # TCP 與UDP的差異
 TCP:雙向傳輸  
