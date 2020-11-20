@@ -106,25 +106,25 @@ un-reliable(不可靠)
 # Internet Control Message Protocol(ICMP)(網際網路控制訊息協定)
 是網際網路協定套組的核心協定之一。它用於網際網路協定（IP）中傳送控制訊息，提供可能發生在通訊環境中的各種問題回饋  
 # 網路硬體設備 Network Devices
-# HUB
+# HUB(集線器)
 實體層  
 匯集所有區域網路中的電腦  
-# Repeater
+# Repeater(中繼器)
 實體層  
 一個將輸入訊號增強放大的類比裝置  
-# Switch
+# Switch(交換器)
 資料鏈結層  
 通過報文交換接收和轉發資料到目標裝置，它能夠在電腦網路上連接不同的裝置  
-# Bridge
+# Bridge(橋接器)
 資料鏈結層  
 使用類似檔案瀏覽器的格式，管理多媒體檔案  
-# Router
+# Router(路由器)
 網路層  
 可以決定封包從來源端到目的端所經過的路由路徑  
 # L4 Switch
 傳輸層  
 頻寬管理、優先次序處理以及策略性網路管理  
-# Proxy 
+# Proxy(網路代理) 
 代替網站的主機伺服器  
 # Virtual Local Area Network(VLAN)虛擬區域網路
 一種建構於區域網路交換技術（LAN Switch）的網路管理的技術  
