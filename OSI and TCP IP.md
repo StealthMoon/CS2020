@@ -22,19 +22,19 @@ communcation protocol 通訊協定
 為什麼要分層?  
 把某些特定功能獨立起來執行效率較高  
 同時每層也可以獨立進行修改跟擴充功能  
-# HyperText Transfer Protocol(HTTP)
+# HyperText Transfer Protocol(HTTP)(超文本傳輸協定)
 應用層  
 一種Client/Server的應用  
 Postman / HttpWatch Professiona  
-# HyperText Transfer Protocol Secure(HTTPS)
+# HyperText Transfer Protocol Secure(HTTPS)(超文本傳輸安全協定)
 應用層  
 一種是建立一個信息安全通道，來保證數據傳輸的安全’另一種就是確認網站的真實性  
 HTTPS Everywhere  
-# File Transfer Protocol(FTP)
+# File Transfer Protocol(FTP)(檔案傳輸協定)
 應用層  
 主要的功能是在Client與Server之間傳送大量檔案資料的通訊協定  
 FlashFXP / Cuteftp / FileZilla / WinSCP / Wing FTP Server / CrossFTP  
-# SSH File Transfer Protocol/Secret File Transfer Protocol(SFTP)
+# SSH File Transfer Protocol/Secret File Transfer Protocol(SFTP)(SSH檔案傳輸協定)
 應用層  
 一個用於在電腦網路上在Client和Server之間進行檔案傳輸的應用層協定  
 SolarWinds SFTP / Syncplify.me / Globalscape / Syncplify.me Micro / Core Mini / vsftp  
@@ -46,11 +46,11 @@ FileZilla / IIS / zFTPServer
 應用層  
 主要是用來規範不同的電腦系統，經由網路連線到遠端主機進行線上作業的標準  
 PuTTY / MobaXterm  
-# Secure Shell(SSH)
+# Secure Shell(SSH)(安全外殼協定)
 應用層  
 專為遠程登錄會話和其他網絡服務提供安全性的協議  
 WinSCP / PuTTY  
-# Simple Mail Transfer Protocol(SMTP)
+# Simple Mail Transfer Protocol(SMTP)(簡單郵件傳輸協定)
 應用層  
 它能夠在傳送過程中轉發電子郵件  
 MailTrap / papercut / Smtp4dev  
@@ -58,19 +58,19 @@ MailTrap / papercut / Smtp4dev
 應用層  
 專為離線郵件處理所設計  
 EVO MAIL SERVER  
-# Domain Name System(DNS)
+# Domain Name System(DNS)(網域名稱系統)
 應用層  
 像網際網路的通訊錄  
 ViewDNS.info / DNSQuerySniffer  
-# Domain Name System Security Extensions(DNSsec)
+# Domain Name System Security Extensions(DNSsec)(域名系統安全擴充)
 應用層  
 主要是在現有DNS的基礎上，加入數位簽章的機制，用來驗證DNS伺服器解析結果的真實性  
 Google Domains  
-# Dynamic Host Configuration Protocol(DHCP)
+# Dynamic Host Configuration Protocol(DHCP)(動態主機設定協定)
 應用層  
 主要是給網絡快速自動地分配IP位址  
 OpenVMS  
-# Lightweight Directory Access Protocol(LDAP)
+# Lightweight Directory Access Protocol(LDAP)(輕型目錄存取協定)
 應用層  
 工業標準的應用協定  
 Adsiedit  
@@ -78,19 +78,19 @@ Adsiedit
 應用層  
 用來讓UNIX系列的作業系統與微軟Windows作業系統的SMB/CIFS網路協定做連結的自由軟體  
 RHEL5 – Samba  
-# SNMP
+# Simple Network Management Protocol(SNMP)(簡單網路管理協定)
 應用層  
 用於交換網路裝置之間的管理資訊  
 Net-SNMP  
-# Real-Time Messaging Protocol(RTMP)
+# Real-Time Messaging Protocol(RTMP)(即時訊息協定)
 應用層  
 由 Adobe 所有的媒體傳輸協議  
 nginx/nginx-rtmp  
-# Real Time Streaming Protocol(RTSP)
+# Real Time Streaming Protocol(RTSP)(即時串流協定)
 應用層  
 專為娛樂和通信系統的使用，以控制串流媒體伺服器  
 snoop / wireshark  
-# Message Queuing Telemetry Transport(MQTT)
+# Message Queuing Telemetry Transport(MQTT)(訊息佇列遙測傳輸)
 應用層  
 可視為資料傳遞的橋梁  
 MQTTLens  
@@ -101,9 +101,9 @@ reliable(可靠)
 UDP:單相傳輸  
 un-reliable(不可靠)  
 可能會在網路傳送過程中丟失﹑重複﹑或不依順序  
-# IPSec
+# Internet Protocol Security(IPSec)(網際網路安全協定)
 如果在路由器或防火牆上執行了IPSec，它就會為周邊的通信提供強有力的安全保障。一個公司或工作組內部的通信將不涉及與安全相關的費用  
-# ICMP
+# Internet Control Message Protocol(ICMP)(網際網路控制訊息協定)
 是網際網路協定套組的核心協定之一。它用於網際網路協定（IP）中傳送控制訊息，提供可能發生在通訊環境中的各種問題回饋  
 # 網路硬體設備 Network Devices
 # HUB
