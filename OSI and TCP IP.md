@@ -13,7 +13,7 @@
 2  internet  網際網路協定 將資料從原網路傳輸到目標網路  
 1  network assess  乙太 WIFI 封包從一個裝置的網路層傳輸到另外一個裝置的網路層的方法  
 # 協定protocol
-communcation protocol 通訊協定
+communcation protocol 通訊協定  
 定義電腦間互相通訊且共同認定的協議標準  
 為什麼要分層?  
 把某些特定功能獨立起來執行效率較高  
