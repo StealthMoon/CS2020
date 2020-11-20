@@ -18,7 +18,7 @@ communcation protocol 通訊協定
 為什麼要分層?  
 把某些特定功能獨立起來執行效率較高  
 同時每層也可以獨立進行修改跟擴充功能  
-# HypertText Transfer Protocol(HTTP)
+# HyperText Transfer Protocol(HTTP)
 應用層  
 一種Client/Server的應用  
 Postman / HttpWatch Professiona  
