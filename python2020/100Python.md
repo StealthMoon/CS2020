@@ -15,8 +15,9 @@ Answer : A
 #!/usr/bin/python3
 __這是一行註解
 print("Hello, Python!")
-Answer : C
+
 (A)	/   (B) -   (C) #   (D) <!-->
+Answer : C
 ```
 ```
 3.要新建一個變數名稱為school，並將變數值設定為ksu，底下程式需填入:
@@ -44,8 +45,9 @@ Answer : D
 #!/usr/bin/python3
 y = 65535
 print(type(y))
-Answer : A
+
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
+Answer : A
 ```
 ```
 6.要在程式碼中進行資料型態轉換 底下程式需使用哪個函數將x轉換成float:
@@ -53,8 +55,9 @@ Answer : A
 #!/usr/bin/python3
 x = 65535
 ______(x)
-Answer : C
+
 (A) long   (B) str   (C) float   (D)int
+Answer : C
 ```
 ```
 7.要計算一個字串長度 底下程式需使用哪個函數:
@@ -62,16 +65,18 @@ Answer : C
 #!/usr/bin/python3
 string1 = "Hello, Python!"
 print(___________(string1))
-Answer : B
+
 (A) find   (B) len   (C) count   (D)replace
+Answer : B
 ```
 ```
 8.試問以下程式執行後輸出什麼結果:
 
 #!/usr/bin/python3
 print(100 < 200)
-Answer : B
+
 (A) False   (B) True   (C) 100   (D) 200
+Answer : B
 ```
 # 2.資料型態及其運算 DataType
 ```
