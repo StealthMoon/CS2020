@@ -147,6 +147,7 @@ print(type(a))
 (A) set   (B) dict   (C) list   (D) tuple
 ```
 ## 字串1
+## Answer : A
 ```
 16.試問若要定義一字串變數應填入什麼:
 
@@ -159,6 +160,7 @@ print(a)
 (C) [Hello Python]
 (D) {"Hello Python"}
 ```
+## Answer : B
 ```
 17.試問以下程式執行後輸出什麼結果:
 
@@ -168,6 +170,7 @@ print(a[1])
 
 (A) H   (B) e   (C) l   (D) 1
 ```
+## Answer : B
 ```
 18.要在螢幕輸出llo  底下程式需填入什麼:
 
@@ -177,6 +180,7 @@ print(a[__________])
 
 (A) 4:6   (B) 3:5   (C) 2:5   (D) llo
 ```
+## Answer : A
 ```
 19.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -188,6 +192,7 @@ print(a.strip())
 (C) HelloPython         
 (D) H e l l o P y t h o n
 ```
+## Answer : D
 ```
 20.試問若要判斷Kun是否存在於txt字串中以下程式應填入什麼:
 #!/usr/bin/python3
@@ -200,6 +205,7 @@ print(x)
 (C) ==
 (D) in
 ```
+## Answer : B
 ```
 21.試問若要輸出a、b兩字串合併後的結果以下程式應填入什麼:
 #!/usr/bin/python3
@@ -212,6 +218,7 @@ print(__________)
 (C) ab
 (D) a,b
 ```
+## Answer : D
 ```
 22.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -225,6 +232,7 @@ print(a + b)
 (D) TypeError
 ```
 ## 字串2
+## Answer : B
 ```
 23.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -237,6 +245,7 @@ print(a.format(b))
 (C) University Kun Shan
 (D) University
 ```
+## Answer : A
 ```
 24.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -249,6 +258,7 @@ print(a.format(b,‘Hello’))
 (C) {1} Kun Shan {0}
 (D) b,‘Hello’
 ```
+## Answer : C
 ```
 25.試問若以下程式執行後要輸出一對雙引號需填入什麼:
 #!/usr/bin/python3
@@ -260,6 +270,7 @@ print(a)
 (C) \"\"
 (D) [“”]
 ```
+## Answer : A
 ```
 26.要在螢幕輸出字串的長度  底下程式需使用哪個函數:
 #!/usr/bin/python3
@@ -271,6 +282,7 @@ print(_______)
 (C) abs(a)
 (D) int(a)
 ```
+## Answer : A
 ```
 27.試問要英文字母轉為大寫以下程式需填入什麼:
 #!/usr/bin/python3
@@ -282,6 +294,7 @@ print(__________)
 (C) a.upper()
 (D) a.lower()
 ```
+## Answer : D
 ```
 28.試問以下程式執行後輸出什麼結果:
 #!/usr/bin/python3
@@ -292,6 +305,7 @@ print(“%s Python! %d” % (“Hello”,123))
 (C) %s Python! %d
 (D) Hello Python! 123
 ```
+## Answer : A
 ```
 29.若要將字串a中的o替換成x以下程式需填入什麼:
 a = “Hello Python!”
