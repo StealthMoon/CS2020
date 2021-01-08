@@ -318,6 +318,7 @@ print(a)
 (D) format(“o”,”x”)
 ```
 # 3.選擇結構1
+## Answer : A
 ```
 30.
 if None:
@@ -329,6 +330,7 @@ if None:
 (C) Hello
 (D) False
 ```
+## Answer : C
 ```
 31.
 if 1:
@@ -340,6 +342,7 @@ if 1:
 (C) Hello
 (D) False
 ```
+## Answer : C
 ```
 32.
 if 100:
@@ -351,6 +354,7 @@ if 100:
 (C) Hello
 (D) False
 ```
+## Answer : A
 ```
 33.
 if 0:
@@ -362,6 +366,7 @@ if 0:
 (C) Hello
 (D) False
 ```
+## Answer : B
 ```
 34.
 if 100 == “100”:
@@ -373,6 +378,7 @@ if 100 == “100”:
 (C) Hello
 (D) False
 ```
+## Answer : C
 ```
 35.
 if 100 == 100:
@@ -384,6 +390,7 @@ if 100 == 100:
 (C) Hello
 (D) False
 ```
+## Answer : C
 ```
 36.
 if 100 >= 1:
@@ -396,6 +403,7 @@ if 100 >= 1:
 (D) False
 ```
 ## 選擇結構2
+## Answer : A
 ```
 37.
 a = 100
@@ -411,6 +419,7 @@ else:
 (C) a
 (D) b
 ```
+## Answer : C
 ```
 38.
 a = 50
@@ -423,6 +432,7 @@ print("A") if a > b else print("B")
 (C) B
 (D) A
 ```
+## Answer : C
 ```
 39.
 a = 50
@@ -435,6 +445,7 @@ print("A") if a > b else print("B") if a != b else print("!=")
 (C) B
 (D) 語法錯誤
 ```
+## Answer : C
 ```
 40.
 a = 77
@@ -449,6 +460,7 @@ if a > b ___ c > a:
 (C) or
 (D) and
 ```
+## Answer : A
 ```
 41.
 a = 0
@@ -463,6 +475,7 @@ if b > a:
 (C) return True
 (D) break
 ```
+## Answer : C
 ```
 42.
 x = 10
@@ -478,6 +491,7 @@ if x >= 10:
 (C) 2
 (D) 0
 ```
+## Answer : D
 ```
 43.
 a = 33
