@@ -7,6 +7,7 @@
 ________("Hello, Python!")
 
 (A) print   (B) printf   (C) printline   (D) printn
+Answer : A
 ```
 ```
 2.要在程式碼中新增一行註解，底下程式需使用哪個符號:
@@ -14,7 +15,7 @@ ________("Hello, Python!")
 #!/usr/bin/python3
 __這是一行註解
 print("Hello, Python!")
-
+Answer : C
 (A)	/   (B) -   (C) #   (D) <!-->
 ```
 ```
@@ -25,6 +26,7 @@ print("Hello, Python!")
 
 (A) (1)ksu，(2)school    (B) (1) school，(2) ksu  
 (C) (1)”ksu”，(2)school   (D) (1)ksu，(2)”school”  
+Answer : B
 ```
 ```
 4.要檢查變數資料型別 底下程式需使用哪個函數:
@@ -34,7 +36,7 @@ y = 65535
 print(______(y))
 
 (A) str   (B) sum   (C) int   (D)type
-
+Answer : D
 ```
 ```
 5.試問以下程式執行後輸出什麼:
@@ -42,7 +44,7 @@ print(______(y))
 #!/usr/bin/python3
 y = 65535
 print(type(y))
-
+Answer : A
 (A) <class 'int'>  (B) <class 'str'>  (C) <class 'float'>  (D) <class 'tuple'>
 ```
 ```
@@ -51,7 +53,7 @@ print(type(y))
 #!/usr/bin/python3
 x = 65535
 ______(x)
-
+Answer : C
 (A) long   (B) str   (C) float   (D)int
 ```
 ```
@@ -60,7 +62,7 @@ ______(x)
 #!/usr/bin/python3
 string1 = "Hello, Python!"
 print(___________(string1))
-
+Answer : B
 (A) find   (B) len   (C) count   (D)replace
 ```
 ```
@@ -68,7 +70,7 @@ print(___________(string1))
 
 #!/usr/bin/python3
 print(100 < 200)
-
+Answer : B
 (A) False   (B) True   (C) 100   (D) 200
 ```
 # 2.資料型態及其運算 DataType
